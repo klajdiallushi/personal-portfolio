@@ -33,7 +33,7 @@ This is a personal portfolio project designed to showcase my skills and projects
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/<USERNAME>/personal-portfolio.git
+    git clone https://github.com/klajdiallushi/personal-portfolio.git
     cd personal-portfolio
     ```
 
