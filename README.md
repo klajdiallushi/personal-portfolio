@@ -67,4 +67,4 @@ This is a personal portfolio project designed to showcase my skills and projects
 
 ## Contact
 
-For any inquiries, please contact me at [your-email@example.com].
+For any inquiries, please contact me at [klajdi.allushi17@gmail.com].
